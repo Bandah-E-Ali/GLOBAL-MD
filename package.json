@@ -13,7 +13,7 @@
   "author": "chugiyan",
   "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys": "latest",
+    "@whiskeysockets/baileys": "github:Bandah-E-Ali/Sarkar-Baileys",
     "@adiwajshing/keyed-db": "latest",
     "@bochilteam/scraper": "latest",
     "@develoka/angka-terbilang-js": "latest",
@@ -56,7 +56,7 @@
     "image-to-base64": "latest",
     "image-url-validator": "latest",
     "javascript-obfuscator": "latest",
-    "jimp": "latest",
+    "jimp": "0.16.1",
     "jsdom": "latest",
     "link-preview-js": "latest",
     "lowdb": "latest",
