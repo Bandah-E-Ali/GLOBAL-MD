@@ -34,7 +34,7 @@ global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '91' //set autoblock country code
 global.antiforeignnumber = '94' //set anti foreign number country code
 
-global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
+global.listv = ['●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
 
 global.limit = {
@@ -77,3 +77,4 @@ fs.watchFile(file, () => {
 	delete require.cache[file]
 	require(file)
 });
+
