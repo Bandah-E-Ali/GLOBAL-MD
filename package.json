@@ -73,6 +73,7 @@
     "nodemailer-smtp-transport": "latest",
     "node-cron": "latest",
     "node-fetch": "latest",
+    "node-cache": "latest",
     "node-gtts": "latest",
     "node-webpmux": "latest",
     "node-id3": "latest",
